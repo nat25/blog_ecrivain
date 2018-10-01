@@ -1,0 +1,42 @@
+/*----------------------
+------- Template -------
+-----------------------*/
+.topnav{
+	padding: 20px 0;
+}
+.menu {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	background-color: #026773;
+	color: #fff;
+	padding: 15px 0;
+}
+.menu a {
+	color: #fff;
+	text-transform: uppercase;
+	margin: 0 5px;
+	font-family: 'Rambla', sans-serif;
+}
+
+footer{
+	margin-top:100px;
+	padding: 20px 0;
+	background-color: #026773;
+	color: #fff;
+	text-align: center;
+	font-family: 'Rambla', sans-serif;
+}
+footer a {
+	color: #fff;
+}
+.social_networks i {
+	font-size: 22px;
+	margin: 0 5px;
+	margin-bottom: 5px;
+	cursor: pointer;
+}
+
+/*----------------------
+------- Homepage -------
+-----------------------*/
